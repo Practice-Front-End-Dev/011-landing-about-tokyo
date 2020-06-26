@@ -1,1 +1,5 @@
-Tokyo inspired landing page, using bootstrap and a javascript slider ...
+#Tokyo inspired landing page
+
+Made predominantly with Bootstrap ...
+
+https://practice-web-design.github.io/lp-project-005/
