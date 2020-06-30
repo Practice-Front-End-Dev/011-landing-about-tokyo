@@ -24,7 +24,7 @@ NAV LINKS
 
 nav li {
   line-height: 2.2;
-  margin-right: 5rem;
+  /*margin-right: 15rem;*/
 }
 
 a {
@@ -47,10 +47,6 @@ a {
 IMG CAROUSEL
 *********************/
 
-.my-css-carousel {
-  margin-top: 0.5rem;
-}
-
 /* Some images are short and don't fill the "container" */
 img {
   height: 300px;
@@ -61,14 +57,18 @@ img {
 @media (min-width: 992px) {
   img {
     height: 560px;
-    padding: 0 30px;
   }
 }
 
 /********************
-INTRO SECTION
+HEADLINE
 *********************/
 
+.headline-title {
+  margin-top: 1.2rem;
+  color: #232323;
+  text-decoration: underline;
+}
 
 
 
