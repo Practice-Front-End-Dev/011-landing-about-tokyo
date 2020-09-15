@@ -2,4 +2,4 @@
 
 Using Bootstrap ...
 
-https://practice-front-end-dev.github.io/011-landing-about-tokyo/
+https://practice-web-sites.github.io/about-tokyo/
